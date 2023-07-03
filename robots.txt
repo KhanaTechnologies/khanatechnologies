@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://khanatechnologies.co.za/sitemap.xml
